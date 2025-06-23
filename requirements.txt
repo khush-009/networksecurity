@@ -1,9 +1,11 @@
 python-dotenv
 numpy
 pandas
-pymongo
-pymongo[srv]==3.6
+pymongo == 4.13.2
+pymongo[srv]==4.13.2
 certifi
 scikit-learn
+dill
+pyaml
 
 #-e .
