@@ -11,4 +11,9 @@ mlflow
 dagshub
 fastapi
 uvicorn
+tldextract
+whois
+bs4
+beautifulsoup4
+streamlit
 #-e .
